@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Computer Vision
-- 🌱 I’m currently learning NLP
+- 🌱 I’m currently learning Natural Langauge Processing.
 - 🤔 I’m looking for help with Abstractive Summarization
 - 💬 Ask me about Machine Learning, Deep Learning , Computer Vision
 - 📫 How to reach me LinkedIn -   LinkedIn Profile - [@Aditya Bobde](https://www.linkedin.com/in/aditya-bobde/ ) , [Email ](adityabobde19@gmail.com)
